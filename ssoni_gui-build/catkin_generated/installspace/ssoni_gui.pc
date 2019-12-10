@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: ssoni_gui
+Description: Description of ssoni_gui
+Version: 0.1.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 
